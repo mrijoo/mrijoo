@@ -1,6 +1,6 @@
-## Hi there, I'm IZO <img src="https://raw.githubusercontent.com/mrijoo/mrijoo/main/Assets/Hi.gif" width="29px">
+## Hi there, I'm IZO <img src="https://raw.githubusercontent.com/mrijoo/mrijoo/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="125px" src="https://raw.githubusercontent.com/mrijoo/mrijoo/main/Assets/js.webp" />
+<img align="right" alt="GIF" height="125px" src="https://raw.githubusercontent.com/mrijoo/mrijoo/master/Assets/js.webp" />
 
 
 **Personal Stuffs:**

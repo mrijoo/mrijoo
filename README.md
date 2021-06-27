@@ -1,6 +1,6 @@
 ## Hi there, I'm IZO <img src="https://raw.githubusercontent.com/mrijoo/mrijoo/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="125px" src="https://raw.githubusercontent.com/mrijoo/mrijoo/master/Assets/js.webp" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mrijoo/mrijoo/master/Assets/octocat.gif" />
 
 
 **Personal Stuffs:**
@@ -31,17 +31,28 @@
 <h2 align="center">My Github Stats</h2>
 
 <p align=center>
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=mrijoo&show_icons=true&theme=tokyonight">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrijoo&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  <div align=center>
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mrijoo&show_icons=true&theme=react&hide_border=true" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrijoo&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true" />
+      <img height=200 width=500 align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=mrijoo&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka"/>
+      <img src="https://activity-graph.herokuapp.com/graph?username=mrijoo&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+       <img src="https://github-profile-trophy.vercel.app/?username=mrijoo&theme=juicyfresh&no-frame=true&row=2&&margin-w=20&no-bg=true" width="100%"/>
+
+  </div>
+  
+  <div align=center>
+    
+  </div>
   <br>
-  <img src="https://izo.my.id/api/?user=mrijoo&label=Profile%20Visitor&labelcolor=blue&color=grey&style=for-the-badge" />
+
 </p>
+
 
 <hr>
 
 <h2 align="center">Repositories</h2>
   <p width="100%" align="center">
-  <a align="left" href="https://github.com/mrijoo/RDP" title="RDP Windows, Ubuntu & Mac."><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=RDP&theme=gotham"></a><a align="right" href="https://github.com/mrijoo/SSH" title="Ubuntu SSH"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=SSH&theme=gotham"></a>
+  <a align="left" href="https://github.com/mrijoo/RDP" title="RDP Windows, Ubuntu & Mac."><img align="left" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=RDP&theme=gotham"></a><a align="right" href="https://github.com/mrijoo/SSH" title="Ubuntu SSH"><img align="right" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=SSH&theme=gotham"></a>
   <br><br><br><br><br><br><br>
 </p>
 <h4 align="center">

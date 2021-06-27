@@ -52,7 +52,7 @@
 
 <h2 align="center">Repositories</h2>
   <p width="100%" align="center">
-  <a align="left" href="https://github.com/mrijoo/RDP" title="RDP Windows, Ubuntu & Mac."><img align="left" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=RDP&theme=gotham"></a><a align="right" href="https://github.com/mrijoo/SSH" title="Ubuntu SSH"><img align="right" height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=SSH&theme=gotham"></a>
+  <a align="left" href="https://github.com/mrijoo/RDP" title="RDP Windows, Ubuntu & Mac."><img align="left" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=RDP&theme=gotham"></a><a align="right" href="https://github.com/mrijoo/SSH" title="Ubuntu SSH"><img align="right" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=SSH&theme=gotham"></a>
   <br><br><br><br><br><br><br>
 </p>
 <h4 align="center">

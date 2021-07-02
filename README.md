@@ -53,7 +53,8 @@
 <h2 align="center">Repositories</h2>
   <p width="100%" align="center">
   <a align="left" href="https://github.com/mrijoo/RDP" title="RDP Windows, Ubuntu & Mac."><img align="left" height="120" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=RDP&theme=gotham"></a><a align="right" href="https://github.com/mrijoo/SSH" title="Ubuntu SSH"><img align="right" height="120" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=SSH&theme=gotham"></a>
-  <br><br><br><br><br><br><br>
+  <a align="left" href="https://github.com/mrijoo/Tesy-bot" title="Whatsapp Bot"><img align="left" height="120" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=Tesy-bot&theme=gotham"></a><a align="right" href="https://github.com/mrijoo/Primbon-Scraper" title="Scraper primbon.com"><img align="right" height="120" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=mrijoo&repo=Primbon-Scraper&theme=gotham"></a>
+  <br><br><br><br><br><br><br><br><br><br>
 </p>
 <h4 align="center">
   <a href=https://github.com/mrijoo?tab=repositories title="Show Repositories">🔎 Show More 🔍</a>
